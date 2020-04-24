@@ -1,5 +1,3 @@
-# README
-
 ![README/logo.svg](README/logo.svg)
 
 ## Description
