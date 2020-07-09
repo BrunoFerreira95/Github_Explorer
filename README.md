@@ -1,6 +1,6 @@
 ![README/logo.svg](README/logo.svg)
 ## Preview
-https://github-explorer-lilac.vercel.app/
+https://bit.ly/3e9bPOp
 
 ## Description
 
